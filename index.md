@@ -4,9 +4,9 @@
 
 - [**iOS Apps**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#ios-apps)
 
-- [**About Us**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#about-us)
+- [**About Me**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#about-me)
 
-- [**Contact Us**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#contact-us)
+- [**Contact Me**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#contact-me)
 
 ## Unity Assets
 In this section you will be able to see all my created assets for Unity 3D  
@@ -20,5 +20,5 @@ Currently there are three iOS apps in development but very soon you will see the
 I am a passionate software developer with interest in two fields: app development and game development. This Page was created to show all my work to you, my dear visitor.
 I hope you find my products interesting for you. And if you have any feedback please send me an email, I will be glad to hear it.
 
-## Contact Us
+## Contact Me
 _email_ : 7akcompany@gmail.com
