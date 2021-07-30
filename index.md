@@ -1,5 +1,4 @@
 ### Table of Content
-* TOC
 {:toc}
 - [Unity Assets](###unity-assets)
 
