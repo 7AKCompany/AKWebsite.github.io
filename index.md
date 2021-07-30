@@ -1,6 +1,6 @@
 ### Welcome to AK Company Website!
 
-This simple page will contain all info regarding our products.
+This simple page will contain all info regarding my products.
 
 ### Table of Content
 
@@ -13,12 +13,15 @@ This simple page will contain all info regarding our products.
 - [Contact Us](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#contact-us)
 
 ## Unity Assets
+In this section you will be able to see all my created assets for Unity 3D
 
 
 ## iOS Apps
+In this section you will be able to see all my created iOS apps
 
-
-## About Us
-
+## About Me
+I am a passionate software developer with interest in two fields: app development and game development. This Page was created to show all my work to you, my dear visitor.
+I hope you find my products interesting for you. And if you have any feedback please send me an email, I will be glad to hear it.
 
 ## Contact Us
+email: 7akcompany@gmail.com
