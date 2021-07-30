@@ -1,5 +1,5 @@
-# Table of Content
--[Table of Contents](#table-of-contents)
+* Table of Content
+[[_TOC_]]
   - [Unity Assets](##unity-assets)
   - [iOS Apps](##ios-apps)
   - [About Me](##about-me)
