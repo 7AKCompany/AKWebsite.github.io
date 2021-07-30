@@ -1,8 +1,8 @@
 ## Table of Content
-  - [Unity Assets](https://7akcompany.github.io/AKWebsite.github.io/#unity-assets)
-  - [iOS Apps](https://7akcompany.github.io/AKWebsite.github.io/#ios-apps)
-  - [About Me](https://7akcompany.github.io/AKWebsite.github.io/#about-me)
-  - [Contact Me](https://7akcompany.github.io/AKWebsite.github.io/#contact-me)
+  - [Unity Assets](#unity-assets)
+  - [iOS Apps](#ios-apps)
+  - [About Me](#about-me)
+  - [Contact Me](#contact-me)
 
 ## Unity Assets
 In this section you will be able to see all my created assets for Unity 3D  
