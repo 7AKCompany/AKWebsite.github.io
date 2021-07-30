@@ -14,7 +14,7 @@ This simple page will contain all info regarding my products.
 
 ## Unity Assets
 In this section you will be able to see all my created assets for Unity 3D
-
+My main motivationn for creating assets was to let people create wonderfull games
 
 ## iOS Apps
 In this section you will be able to see all my created iOS apps
