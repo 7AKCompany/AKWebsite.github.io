@@ -10,7 +10,8 @@
 
 ### Unity Assets
 In this section you will be able to see all my created assets for Unity 3D  
-My main motivationn for creating assets was to let people create simple and yet wonderfull games without spending a tons of money, or searching internet for hours to find parts of code for you mechanics. Here I will publish my created assets with core functionalities.
+My main motivationn for creating assets was to let people create simple and yet wonderfull games without spending a tons of money, or searching internet for hours to find parts of code for you mechanics.  
+Here I will publish my created assets with core functionalities.
 
 ### iOS Apps
 In this section you will be able to see all my created iOS apps.  
