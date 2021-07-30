@@ -1,12 +1,12 @@
 ### Table of Content
 
-- [**Unity Assets**](###unity-assets)
+- [Unity Assets](###unity-assets)
 
-- [**iOS Apps**](###ios-apps)
+- [iOS Apps](###ios-apps)
 
-- [**About Me**](###about-me)
+- [About Me](###about-me)
 
-- [**Contact Me**](###contact-me)
+- [Contact Me](###contact-me)
 
 ### Unity Assets
 In this section you will be able to see all my created assets for Unity 3D  
