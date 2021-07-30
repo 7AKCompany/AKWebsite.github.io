@@ -1,12 +1,12 @@
 ### **Table of Content**
 
-- [**Unity Assets**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#unity-assets)
+- [**Unity Assets**](## Unity Assets)
 
-- [**iOS Apps**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#ios-apps)
+- [**iOS Apps**](## iOS Apps)
 
-- [**About Me**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#about-me)
+- [**About Me**](## About Me)
 
-- [**Contact Me**](https://github.com/7AKCompany/AKWebsite.github.io/blob/gh-pages/index.md#contact-me)
+- [**Contact Me**](## Contact Me)
 
 ## Unity Assets
 In this section you will be able to see all my created assets for Unity 3D  
